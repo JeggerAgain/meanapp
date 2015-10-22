@@ -1,0 +1,27 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeggerAgain/meanapp.git"
+  },
+  "author": "John Gaffney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeggerAgain/meanapp/issues"
+  },
+  "homepage": "https://github.com/JeggerAgain/meanapp#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.11",
+    "resourcejs": "^0.1.25"
+  }
+}
